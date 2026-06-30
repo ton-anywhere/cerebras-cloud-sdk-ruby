@@ -1,0 +1,42 @@
+# Ruby / Gem
+*.gem
+*.rbc
+/.config
+/.bundle/
+/vendor/bundle
+/.yardoc/
+/_yardoc/
+/doc/
+/rdoc/
+/tmp/
+*.bundle
+*.so
+*.o
+*.a
+mkmf.log
+
+# Build artifacts
+pkg/
+*.gem
+cerebras-*.gem
+
+# Testing
+coverage/
+spec/reports/
+.rspec_status
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+\#*\#
+.DS_Store
+
+# OS
+Thumbs.db
+
+/tasks/*
+
+AGENTS.md
